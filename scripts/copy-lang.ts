@@ -1,7 +1,7 @@
 import fs from 'fs';
 import ConfigParser from 'configparser';
 
-const K2_LANG_FILE = 'Krastorio2.cfg';
+const k2e_LANG_FILE = 'Krastorio2.cfg';
 const LANG_FILE = 'lang.cfg';
 const LANG_KEYS = ['kre-steel-pipe', 'kre-steel-pipe-to-ground', 'kre-steel-pump', 'kre-steel-fluid-handling'];
 
@@ -33,7 +33,7 @@ async function copyLocale(localeFolder: string, locale: string): Promise<void> {
 
   // read the source file
   const config = new ConfigParser();
-  config.read(`${localeFolder}/${locale}/${K2_LANG_FILE}`);
+  config.read(`${localeFolder}/${locale}/${k2e_LANG_FILE}`);
 
   // destination config
   const destConfig = new ConfigParser();

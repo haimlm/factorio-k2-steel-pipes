@@ -1,6 +1,6 @@
 --
 --  upgrades.lua
---  factorio-k2-steel-pipes
+--  factorio-k2e-steel-pipes
 --
 --  Created by Rakesh Ayyaswami on 31 Dec 2022.
 --

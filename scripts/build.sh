@@ -1,13 +1,13 @@
 #!/bin/bash
 #
 #  build.sh
-#  factorio-k2-steel-pipes
+#  factorio-k2e-steel-pipes
 #
 #  Created by Rakesh Ayyaswami on 31 Dec 2022.
 #
 
 BUILD_DIR=build
-PACKAGE_NAME=k2-steel-pipes
+PACKAGE_NAME=k2e-steel-pipes
 PACKAGE_VERSION=1.0.0
 ZIP_NAME=${PACKAGE_NAME}_${PACKAGE_VERSION}
 ZIP_FILE=${ZIP_NAME}.zip

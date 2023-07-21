@@ -9,14 +9,14 @@
       "request": "launch",
       "name": "Debug",
       "hookMode": "debug",
-      "hookControl": ["k2-steel-pipes", "level", "Sandbox"]
+      "hookControl": ["k2e-steel-pipes", "level", "Sandbox"]
     },
     {
       "type": "factoriomod",
       "request": "launch",
       "name": "Debug (Settings & Data)",
       "hookMode": "debug",
-      "hookControl": ["k2-steel-pipes", "level", "Sandbox"],
+      "hookControl": ["k2e-steel-pipes", "level", "Sandbox"],
       "hookSettings": true,
       "hookData": true
     },
@@ -25,7 +25,7 @@
       "request": "launch",
       "name": "Profile",
       "hookMode": "profile",
-      "hookControl": ["k2-steel-pipes", "level", "Sandbox"]
+      "hookControl": ["k2e-steel-pipes", "level", "Sandbox"]
     }
   ]
 }

@@ -1,6 +1,6 @@
 Fix support with SE and advanced fluid
 
-## K2 Steel Pipes
+## k2e Steel Pipes
 
 Add the steel pipes & steel pump from Krastorio 2 to your game without adding any of the other features of the awesome Krastorio 2 mod.
 
@@ -14,7 +14,7 @@ These pipes & pumps are more durable and support higher fluid throughput than th
 
 ## Related mods
 
-- [K2 Fluid Storage](https://mods.factorio.com/mod/k2-fluid-storage)
-- [K2 Flare Stack](https://mods.factorio.com/mod/k2-flare-stack)
-- [K2 Reinforced Plates](https://mods.factorio.com/mod/k2-reinforced-plates)
-- [K2 Railgun Turret](https://mods.factorio.com/mod/k2-railgun-turret)
+- [k2e Fluid Storage](https://mods.factorio.com/mod/k2e-fluid-storage)
+- [k2e Flare Stack](https://mods.factorio.com/mod/k2e-flare-stack)
+- [k2e Reinforced Plates](https://mods.factorio.com/mod/k2e-reinforced-plates)
+- [k2e Railgun Turret](https://mods.factorio.com/mod/k2e-railgun-turret)

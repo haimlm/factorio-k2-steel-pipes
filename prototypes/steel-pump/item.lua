@@ -1,11 +1,11 @@
 --
 --  item.lua
---  factorio-k2-steel-pipes
+--  factorio-k2e-steel-pipes
 --
 --  Created by Rakesh Ayyaswami on 31 Dec 2022.
 --
 
-local entity_graphics_path = k2_steel_pipes_path .. "graphics/steel-pump/"
+local entity_graphics_path = k2e_steel_pipes_path .. "graphics/steel-pump/"
 
 data:extend({
   {
