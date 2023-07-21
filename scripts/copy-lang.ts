@@ -3,7 +3,7 @@ import ConfigParser from 'configparser';
 
 const K2_LANG_FILE = 'Krastorio2.cfg';
 const LANG_FILE = 'lang.cfg';
-const LANG_KEYS = ['kr-steel-pipe', 'kr-steel-pipe-to-ground', 'kr-steel-pump', 'kr-steel-fluid-handling'];
+const LANG_KEYS = ['kre-steel-pipe', 'kre-steel-pipe-to-ground', 'kre-steel-pump', 'kre-steel-fluid-handling'];
 
 async function main(): Promise<void> {
   // check if the source folder was passed as an argument

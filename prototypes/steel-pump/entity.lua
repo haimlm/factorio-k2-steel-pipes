@@ -10,12 +10,12 @@ local entity_graphics_path = k2_steel_pipes_path .. "graphics/steel-pump/"
 data:extend({
   {
     type = "pump",
-    name = "kr-steel-pump",
+    name = "kre-steel-pump",
     icon = entity_graphics_path .. "steel-pump-icon.png",
     icon_size = 64,
     icon_mipmaps = 4,
     flags = { "placeable-neutral", "player-creation" },
-    minable = { mining_time = 0.2, result = "kr-steel-pump" },
+    minable = { mining_time = 0.2, result = "kre-steel-pump" },
     max_health = 180,
     fast_replaceable_group = "pump",
     corpse = "1x2-remnants",

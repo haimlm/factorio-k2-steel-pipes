@@ -8,13 +8,13 @@
 data:extend({
   {
     type = "recipe",
-    name = "kr-steel-pipe-to-ground",
+    name = "kre-steel-pipe-to-ground",
     enabled = false,
     ingredients = {
-      { "kr-steel-pipe", 15 },
+      { "kre-steel-pipe", 15 },
       { "steel-plate", 5 },
     },
-    result = "kr-steel-pipe-to-ground",
+    result = "kre-steel-pipe-to-ground",
     result_count = 2,
   },
 })

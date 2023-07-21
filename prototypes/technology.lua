@@ -11,7 +11,7 @@ local technology_graphics_path = k2_steel_pipes_path .. "graphics/technology/"
 data:extend({
   {
     type = "technology",
-    name = "kr-steel-fluid-handling",
+    name = "kre-steel-fluid-handling",
     mod = "Krastorio2",
     icon = technology_graphics_path .. "steel-fluid-handling.png",
     icon_size = 256,
@@ -19,15 +19,15 @@ data:extend({
     effects = {
       {
         type = "unlock-recipe",
-        recipe = "kr-steel-pipe",
+        recipe = "kre-steel-pipe",
       },
       {
         type = "unlock-recipe",
-        recipe = "kr-steel-pipe-to-ground",
+        recipe = "kre-steel-pipe-to-ground",
       },
       {
         type = "unlock-recipe",
-        recipe = "kr-steel-pump",
+        recipe = "kre-steel-pump",
       },
     },
     prerequisites = { "steel-processing", "fluid-handling" },

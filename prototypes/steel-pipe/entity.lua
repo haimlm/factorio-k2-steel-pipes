@@ -10,12 +10,12 @@ local entity_graphics_path = k2_steel_pipes_path .. "graphics/steel-pipe/"
 data:extend({
   {
     type = "pipe",
-    name = "kr-steel-pipe",
+    name = "kre-steel-pipe",
     icon = entity_graphics_path .. "steel-pipe-icon.png",
     icon_size = 64,
     icon_mipmaps = 4,
     flags = { "placeable-neutral", "player-creation", "fast-replaceable-no-build-while-moving" },
-    minable = { mining_time = 0.1, result = "kr-steel-pipe" },
+    minable = { mining_time = 0.1, result = "kre-steel-pipe" },
     max_health = 200,
     corpse = "pipe-remnants",
     resistances = {

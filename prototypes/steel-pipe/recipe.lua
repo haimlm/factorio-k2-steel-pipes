@@ -8,20 +8,20 @@
 data:extend({
   {
     type = "recipe",
-    name = "kr-steel-pipe",
+    name = "kre-steel-pipe",
     normal = {
       enabled = false,
       ingredients = {
         { "steel-plate", 1 },
       },
-      result = "kr-steel-pipe",
+      result = "kre-steel-pipe",
     },
     expensive = {
       enabled = false,
       ingredients = {
         { "steel-plate", 2 },
       },
-      result = "kr-steel-pipe",
+      result = "kre-steel-pipe",
     },
   },
 })
