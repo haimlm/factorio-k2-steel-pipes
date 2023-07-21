@@ -1,4 +1,4 @@
-Fix support with SE
+Fix support with SE and advanced fluid
 
 ## K2 Steel Pipes
 
